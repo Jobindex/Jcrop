@@ -1,0 +1,17 @@
+{
+  "name": "jcrop",
+  "version": "0.9.12",
+  "main": [
+    "js/jquery.color.js",
+    "js/jquery.Jcrop.min.js",
+    "css/jquery.Jcrop.min.css"
+  ],
+  "keywords": [
+    "jquery",
+    "javascript",
+    "library"
+  ],
+  "dependencies": {
+    "jquery": ">=1.3"
+  }
+}
